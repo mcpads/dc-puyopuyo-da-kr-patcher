@@ -46,7 +46,7 @@ cargo test
 | 합격·실격 문구 폰트 | `assets/fonts/Galmuri11.ttf` | [Galmuri](https://github.com/quiple/galmuri) |
 | 픽셀 이름표 폰트 | `assets/fonts/neodgm.ttf` | [Neo둥근모](https://github.com/neodgm/neodgm) |
 
-폰트는 재배포 조건을 이 저장소에서 보장할 수 없어 포함하지 않습니다. 각 폰트의 라이선스는 배포처에서 확인하세요. 배포 패치 v1.0.0은 다음 폰트 파일로 만들었습니다.
+배포 패치 v1.0.0은 다음 폰트 파일로 만들었습니다.
 
 ```text
 e8e6aa8b1b662c7bf0d7f136f29e822e0985176458a6e5d0ba08afc4a5c901a9  BMJUA.ttf
